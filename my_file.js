@@ -3,5 +3,6 @@
 // My name is Ave
 
 function hello() {
+  const b = "Hello World";
   console.log("Hello World");
 }
